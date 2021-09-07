@@ -1,0 +1,22 @@
+name: machine_learning_gpu
+channels:
+  - defaults
+  - hcc
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.6
+  - pytorch-gpu
+  - cudatoolkit=11.0
+  - cudnn
+  - notebook
+  - scipy
+  - keras-gpu
+  - matplotlib
+  - numpy
+  - numba
+  - tensorflow-gpu
+  - pandas
+  - scikit-learn
+  - seaborn
+  - torchvision

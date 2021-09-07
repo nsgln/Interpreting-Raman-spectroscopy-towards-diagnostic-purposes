@@ -1,0 +1,1 @@
+COVID data are available from the authors of the [reference paper](https://www.nature.com/articles/s41598-021-84565-3) upon reasonable request.
